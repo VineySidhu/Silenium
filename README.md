@@ -1,2 +1,0 @@
-# Silenium
-AutomationRelatedCode

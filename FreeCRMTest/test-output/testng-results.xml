@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testng-results skipped="0" failed="0" ignored="3" total="4" passed="1">
+  <reporter-output>
+  </reporter-output>
+  <suite name="Default suite" duration-ms="39037" started-at="2019-12-15T11:42:01Z" finished-at="2019-12-15T11:42:40Z">
+    <groups>
+    </groups>
+    <test name="Default test" duration-ms="39037" started-at="2019-12-15T11:42:01Z" finished-at="2019-12-15T11:42:40Z">
+      <class name="com.crm.qa.testcases.ContactsPageTest">
+        <test-method status="PASS" signature="setUp()[pri:0, instance:com.crm.qa.testcases.ContactsPageTest@1e88b3c]" name="setUp" is-config="true" duration-ms="25636" started-at="2019-12-15T17:12:01Z" finished-at="2019-12-15T17:12:27Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- setUp -->
+        <test-method status="PASS" signature="selectMultipleContactsTest()[pri:3, instance:com.crm.qa.testcases.ContactsPageTest@1e88b3c]" name="selectMultipleContactsTest" duration-ms="12454" started-at="2019-12-15T17:12:27Z" finished-at="2019-12-15T17:12:39Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- selectMultipleContactsTest -->
+        <test-method status="PASS" signature="tearDown()[pri:0, instance:com.crm.qa.testcases.ContactsPageTest@1e88b3c]" name="tearDown" is-config="true" duration-ms="928" started-at="2019-12-15T17:12:39Z" finished-at="2019-12-15T17:12:40Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- tearDown -->
+      </class> <!-- com.crm.qa.testcases.ContactsPageTest -->
+    </test> <!-- Default test -->
+  </suite> <!-- Default suite -->
+</testng-results>
