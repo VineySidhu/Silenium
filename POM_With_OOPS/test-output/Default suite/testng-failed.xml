@@ -6,7 +6,6 @@
       <class name="com.base.test.LoginTest">
         <methods>
           <include name="tearDown"/>
-          <include name="doLoginTest"/>
           <include name="verifyLoginPageTitleTest"/>
           <include name="setUpTest"/>
         </methods>
