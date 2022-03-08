@@ -123,7 +123,7 @@
 
 			<artifactId>poi-scratchpad</artifactId>
 
-			<version>3.9</version>
+			<version>5.2.1</version>
 
 		</dependency>
 
